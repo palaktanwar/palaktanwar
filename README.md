@@ -22,13 +22,6 @@ Beyond academics, I’ve worked hands-on with communities through **Chaitanya Ch
 
 ---
 
-## 📂 Featured Projects
-- **Mental Health Access & Usage Patterns** – Analyzed 10k+ records from Household Pulse Survey, uncovering disparities in access to mental health care.  
-- **MIMIC-III Patient Data Insights** – Applied PCA, clustering, and predictive modeling to patient data, improving understanding of readmission risks.  
-- **Community Data Strategy** – Built survey pipelines and visualization dashboards for a non-profit, driving 30% higher engagement.  
-
----
-
 ## 🌐 Connect With Me
 - [LinkedIn](https://linkedin.com/in/ptanwar)  
 - [Portfolio](http://ptanwar.me)  
